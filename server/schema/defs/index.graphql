@@ -1,0 +1,5 @@
+# import NewsFeed from 'newsfeed.graphql'
+
+type Query {
+    allNews: [NewsFeed]
+}

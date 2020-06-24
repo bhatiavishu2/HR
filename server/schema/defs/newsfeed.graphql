@@ -1,0 +1,17 @@
+
+
+type NewsFeed {
+    author: String!
+    comment_text: String
+    created_at: String
+    num_comments: Int
+    objectID: String
+    points: Int
+    relevancy_score: Int
+    story_id: String
+    story_text: String
+    story_title: String
+    story_url: String
+    title: String
+    url: String
+}
